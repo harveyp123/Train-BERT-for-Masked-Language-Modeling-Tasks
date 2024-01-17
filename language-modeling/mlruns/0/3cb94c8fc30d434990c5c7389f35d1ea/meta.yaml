@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jiz22029/bert_mlm/BERT_MLM_pretrain/language-modeling/mlruns/0/3cb94c8fc30d434990c5c7389f35d1ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cb94c8fc30d434990c5c7389f35d1ea
+run_name: ./tmp/test-mlm
+run_uuid: 3cb94c8fc30d434990c5c7389f35d1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705437630857
+status: 1
+tags: []
+user_id: jiz22029
